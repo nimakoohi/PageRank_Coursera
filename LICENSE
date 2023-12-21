@@ -24,3 +24,8 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
 OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Acknowledgments
+
+This project is based on the code and materials provided by Dr. Charles Severance (a.k.a. Dr. Chuck) for his Python for Everybody course on Coursera. I would like to thank him for his excellent teaching and guidance. You can find more information about his work and courses on his website: [www.dr-chuck.com](https://www.coursera.org/instructor/drchuck).
+
